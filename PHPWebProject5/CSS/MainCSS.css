@@ -1,0 +1,75 @@
+﻿header {
+    color: red;
+}
+
+body{
+      background-color: #b5b5b5;
+      }
+
+* {
+    color: black;
+}
+
+nav {
+    clear: both;
+}
+
+    nav table {
+        width: 100%;
+        height: 1em;
+        background: #0094ff;
+    }
+
+        nav table td {
+            padding-left: 1em;
+        }
+
+nav, a:link, a:visited, a:hover, a:active { 
+    COLOR: #ffffff;
+}
+
+aside {
+    margin-left: 1em;
+    margin-right: 2em;
+    margin-top: 1em;
+    width: 100%;
+    background-color: red;
+    height: 100%;
+    border-radius: 40px;
+    float: left;
+}
+
+footer {
+    width: 100%;
+    background-color: green;
+    position: fixed;
+    bottom: 0;
+}
+
+    .divFoot {
+    text-align:end;
+    padding-right: 1em;
+    }
+
+footer a:link, a:visited, a:hover, a:active { 
+    COLOR: #ffffff;
+}
+.label{
+    color: black;
+    left:3em;
+}
+
+.labelRed {
+    color: red;
+}
+
+.labelGreen {
+    color: green;
+}
+
+.printUrl tr td{
+   
+    padding-left:1em;
+    padding-right:1em;
+     text-align: center;
+}
